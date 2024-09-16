@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-# llh_to_ecef_.py
+# llh_to_ecef.py
 #
 # Converts LLH reference frame components to ECEF
 #
-# Usage: python3 llh_to_ecef_.py lat_deg lon_deg _hae_km
+# Usage: python3 llh_to_ecef.py lat_deg lon_deg hae_km
 #
 # Written by Blake Batchelor, batchelorbh@vt.edu
 # Other contributors: None
@@ -18,6 +18,7 @@
 #
 # Revision history:
 #    09/13/2024          Script created
+#    09/16/2024          Typos fixed
 #
 ###############################################################################
 
